@@ -1,7 +1,3 @@
-# ancorasir_common
-
-Some common trick to save the day
-
 ==========
 Git Autocompletion in OS X Terminal
 ==========
